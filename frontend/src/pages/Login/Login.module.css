@@ -1,0 +1,29 @@
+.inputFiled {
+    padding: 12px;
+    font-size: 16px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    outline: none;
+}
+
+.inputFiledPass {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    border-radius: 4px;
+    border: none;
+    outline: none;
+}
+
+.logBtn {
+    margin-top: 0px;
+    padding: 12px 36px;  
+    width: 100%;
+    font-size: 16px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    outline: none;
+    background-color: black;
+    color: #ccc;    
+    cursor: pointer;
+}
